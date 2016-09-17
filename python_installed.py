@@ -1,0 +1,1 @@
+print "I have installed both Python and a text editor."
